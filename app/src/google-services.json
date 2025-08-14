@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "444059831354",
+    "project_id": "symptomchecker-5b934",
+    "storage_bucket": "symptomchecker-5b934.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444059831354:android:088f06ccf0c6bf7dfa3903",
+        "android_client_info": {
+          "package_name": "com.example.symptom_detector"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi-nf6k6o-ZtguFuw3OBb1lIwDEXhqEow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
